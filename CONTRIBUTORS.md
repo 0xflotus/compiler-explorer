@@ -77,4 +77,5 @@ From oldest to newest contributor, we would like to thank:
 - [Austin Morton](https://github.com/apmorton)
 - [Matt Hammerly](https://github.com/mhammerly)
 - [Christian Vonrüti](https://github.com/alshain)
+- [0xflotus](https://github.com/0xflotus)
 
